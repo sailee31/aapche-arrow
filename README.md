@@ -6,7 +6,7 @@ pip install pysqlite3 or pip install db-sqlite3
 create database hospital_db
 Then create tables patients and doctors - given in database file
 
-for running the code - 
+for running the code -  
 go to vs code
 then run DataScript.py
 then run arima.py - its the traditional way of querying databses
