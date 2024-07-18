@@ -1,3 +1,4 @@
+
 install python
 then on cmd - pip install Flask Flask-MySQLdb
 pip install pyarrow
